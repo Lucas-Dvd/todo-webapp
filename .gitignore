@@ -30,3 +30,6 @@ schema.graphql
 lerna-debug.log
 
 .vscode/
+
+# Environment variables
+.env
